@@ -65,19 +65,6 @@ class RoundPlayment:
 
 class PlayerHand:
 
-    '''
-    methods_to_call = [
-        'is_royal_flush',
-        'is_straight_flush',
-        'is_four_of_a_kind',
-        'is_full_house',
-        'is_flush',
-        'is_straight',
-        'is_three_of_a_kind',
-        'is_two_pairs',
-        'is_pair'
-    ]
-    '''
     methods_to_call = [
         'check_royal_flush',
         'check_straight_flush',
